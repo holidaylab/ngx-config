@@ -19,6 +19,6 @@
       "@ngx-config/http-loader": ["packages/@ngx-config/http-loader/src/index.ts"],
       "@ngx-config/merge-loader": ["packages/@ngx-config/merge-loader/src/index.ts"]
     }
-  }
+  },
   "include": ["packages/**/*.ts"]
 }
